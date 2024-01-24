@@ -11,13 +11,13 @@ Projeto Desenvolvido pela trybe para aprendizado de Backend utilizando API REST,
 npm init -y
 ```
 
-- [] Executar o comando abaixo para baixar o framework Express, responsável pela organização e construção de APIs Web:
+- [x] Executar o comando abaixo para baixar o framework Express, responsável pela organização e construção de APIs Web:
 
 ```cmd
 npm i express@4.17.1 --save-exact
 ```
 
-- [] Executar o comando abaixo para
+- [ ] Executar o comando abaixo para
 
 ```cmd
 npm i eslint@6.8.0 eslint-config-trybe-backend@1.0.1 --save-dev --save-exact
