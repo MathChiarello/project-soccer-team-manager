@@ -4,8 +4,8 @@ Projeto Desenvolvido pela trybe para aprendizado de Backend utilizando API REST,
 
 ## Passos para início do projeto
 
-- [] Criar a pasta "**src**"
-- [] Executar o comando abaixo para inicialização do pacote Node.js:
+- [x] Criar a pasta "**src**"
+- [x] Executar o comando abaixo para inicialização do pacote Node.js:
 
 ```cmd
 npm init -y
