@@ -34,3 +34,9 @@ touch .eslintignore .eslintrc.json
 ```cmd
 git init && touch .gitignore
 ```
+
+- [] Executar o comando abaixo para instalação do nodemon, utilizado para facilitar o processo de desenvolvimento da aplicação, pois a cada alteração do projeto, irá parar e executar novamente "automagicamente".
+
+```cmd
+npm i nodemon@2.0.15 --save-dev --save-exact
+```
